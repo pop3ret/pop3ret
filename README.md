@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [www.untrustaland.com](www.untrustaland.com)
 
-- 💬 Ask me about **Offensive Security**
+- 💬 Ask me about **Offensive Security** and **Hacking**
 
 - 📫 How to reach me **p3ret@untrustaland.com**
 
